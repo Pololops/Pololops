@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Pololops/Pololops/main/img/hi.gif" align="left" height="70" width="" />  
   
 
-# I'm Paul, a web fullstack developer.  
+# I'm Paul, a web fullstack javascript developer.  
   
 
 <br/>  
