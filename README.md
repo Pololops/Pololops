@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Pololops/Pololops/main/img/hi.gif" align="left" height="70" width="80" />  
+<img src="https://raw.githubusercontent.com/Pololops/Pololops/main/img/hi.gif" align="left" height="70" width="100" />  
   
 
 # I'm Paul, a web fullstack javascript developer.  
