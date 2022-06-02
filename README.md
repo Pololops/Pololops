@@ -6,6 +6,12 @@
 
 <br/>  
 
+Après plus de vingt ans d’expérience dans la captation et la production sonore, parsemés de nombreuses incursions dans le développement de sites internet, j’ai décidé de changer de voie professionnelle, en 2021, pour devenir développeur web.
+
+Passionné par l'informatique et les nouvelle technologie depuis l'enfance, je suis autant passionné par la rigueur du back et des bases de données que par l'inventivité et la créativité que procure le front.
+
+<br/>
+
 <table><tr><td valign="top" width="33%">
 
 
