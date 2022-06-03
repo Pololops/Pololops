@@ -6,9 +6,21 @@
 
 <br/>  
 
-Après plus de vingt ans d’expérience dans la captation et la production sonore, parsemés de nombreuses incursions dans le développement de sites internet, j’ai décidé de changer de voie professionnelle, en 2021, pour devenir développeur web.
+Après plus de vingt ans d’expérience dans la captation et la production sonore, parsemés de plusieurs projet de développement de sites internet, j’ai décidé, 2021, de changer de voie professionnelle pour devenir développeur web.
 
 Passionné par l'informatique et les nouvelle technologie depuis l'enfance, je suis autant passionné par la rigueur du back et des bases de données que par l'inventivité et la créativité que procure le front.
+
+Attiré par l'informatique et les nouvelles technologies depuis mon enfance, je suis autant passionné par la rigueur du back-end et des bases de données que par l'inventivité et la créativité apportée par le front-end.
+
+Je suis également musicien (guitariste), fan de jeux point n' click, amoureux de destinations lointaines, à mes heures perdues, parce que la vie est trop courte pour la passer à s'ennuyer...
+
+---
+
+After more than twenty years of background in sound production, but also with some website development projects, I decided to change paths, in 2021, to become a web developer.
+
+Attracted by new technologies since my childhood, I am as passionate about the rigor of the back-end and databases as by the inventiveness and creativity brought by the front-end.
+
+I am also a musician (guitarist), a fan of point and click games, a lover of distant destinations, in my spare time, because life is too short to be bored...
 
 <br/>
 
