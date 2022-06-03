@@ -1,12 +1,10 @@
-<img src="https://raw.githubusercontent.com/Pololops/Pololops/main/img/hi+.gif" align="left" height="70" width="100" />  
-  
+<img src="img/hi+.gif" align="left" height="70" width="100" />  
 
 # I'm Paul, a web fullstack javascript developer.  
   
-
 <br/>  
 
-<img src="https://raw.githubusercontent.com/Pololops/Pololops/main/img/git-branch.gif" align="left" height="70" width="70" /> Après plus de vingt ans d’expérience dans la captation et la production sonore, parsemés de plusieurs projet de développement de sites internet, j’ai décidé, 2021, de changer de voie professionnelle pour devenir développeur web.
+Après plus de vingt ans d’expérience dans la captation et la production sonore, parsemés de plusieurs projet de développement de sites internet, j’ai décidé, 2021, de changer de voie professionnelle pour devenir développeur web.
 
 Passionné par l'informatique et les nouvelle technologie depuis l'enfance, je suis autant passionné par la rigueur du back et des bases de données que par l'inventivité et la créativité que procure le front.
 
