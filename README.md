@@ -1,6 +1,6 @@
 <img src="img/hi+.gif" align="left" height="70" width="100" />  
 
-# I'm Paul, a web fullstack javascript developer.  
+# I'm Paul, a fullstack javascript web developer.  
   
 <br/>  
 
