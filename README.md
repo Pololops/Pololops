@@ -4,19 +4,19 @@
   
 <br/>  
 
-Tout à commencé au collège, au début des 90's, quand je tombe amoureux de cet outil magique : "l'ordinateur", en jouant pour la première fois avec du code, le logiciel de programmation Logo pour Thomson MO5 / TO7. ( qui a dit vieux ? 😅)
+Tout à commencé au collège, au début des 90's, lorsque je tombe amoureux de cet outil magique : "l'ordinateur", en jouant pour la première fois avec du code, le logiciel de programmation Logo pour Thomson MO5 / TO7. ( qui a dit vieux ? 😅)
 
-Mais au sortir de l'adolescence, c'est ma deuxième passion : la musique, qui prend le dessus et me dirige vers l'étude des techniques d'enregistrement et de mixage sonore. Assistées toutefois par ordinateur histoire de lier les deux.
+Au sortir de l'adolescence, c'est ma deuxième passion : la musique, qui prend le dessus et me dirige vers l'étude des techniques d'enregistrement et de production sonore. Assistées toutefois par ordinateur histoire de lier les deux.
 
-Bien plus tard, après vingt ans d’expériences dans l'audiovisuel et la musique, parsemés quand même de quelques incursions bénévoles dans le développement avec la réalisation de plusieurs sites internet, j’ai décidé d'un retour aux sources, en 2021, pour enfin devenir développeur web; mais sur des technologies plus moderne que le première fois…
+Après vingt ans d’expériences dans l'audiovisuel et la musique, parsemées quand même de plusieurs incursions bénévoles dans le développement de sites internet, j’ai décidé d'un retour aux sources, en 2021, pour enfin devenir développeur web.
 
 ---
 
 The story begins in college, in the early 90s, when I fell in love with this magic tool: "the computer", playing with code for the first time on the programming software for the Thomson MO5 / TO7: Logo. (who said I'm old now? 😅)
 
-But when I was 18, my second passion: music, took over and I started studying recording techniques and sound mixing. Luckily assisted by computer.
+When I was 18, my second passion: music, took over and I chose to study audio recording and sound production. Luckily assisted by computer.
 
-Much later, after twenty years in the music and media industries, with some voluntary forays into development with the creation of several websites, I decided to return to my roots, in 2021, to finally become a web developer; but to use more modern technologies than the first time…
+After twenty years in the music and media industries, with some voluntary developments of websites, I decided to return to my roots, in 2021, to finally become a web developer.
 
 <br/>
 
