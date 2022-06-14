@@ -12,7 +12,7 @@ Après vingt ans d’expériences dans l'audiovisuel et la musique, parsemées q
 
 ---
 
-The story begins in college, in the early 90s, when I fell in love with this magic tool: "the computer", playing with code for the first time on the programming software for the Thomson MO5 / TO7: Logo. (who said I'm old now? 😅)
+The story begins in college, in the early 90s, when I fell in love with this magic tool: "the computer", in playing with code for the first time on the programming software for the Thomson MO5 / TO7: Logo. (who said I'm old? 😅)
 
 When I was 18, my second passion: music, took over and I chose to study audio recording and sound production. Luckily assisted by computer.
 
