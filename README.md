@@ -4,19 +4,15 @@
   
 <br/>  
 
-Tout à commencé au collège, au début des 90's, lorsque je tombe amoureux de cet outil magique : "l'ordinateur", en jouant pour la première fois avec du code, le logiciel de programmation Logo pour Thomson MO5 / TO7. ( qui a dit vieux ? 😅)
+Tout a commencé au collège, en jouant pour la première fois avec du code sur un Thomson MO5. C'était au début des années 90... Pourtant c'est la musique, ma seconde passion, qui a pris le dessus et m’a orienté vers l'étude des techniques d'enregistrement et de mixage sonore.
 
-Au sortir de l'adolescence, c'est ma deuxième passion : la musique, qui prend le dessus et me dirige vers l'étude des techniques d'enregistrement et de production sonore. Assistées toutefois par ordinateur histoire de lier les deux.
-
-Après vingt ans d’expériences dans l'audiovisuel et la musique, parsemées quand même de plusieurs incursions bénévoles dans le développement de sites internet, j’ai décidé d'un retour aux sources, en 2021, pour enfin devenir développeur web.
+Aujourd’hui, après 20 ans d’expériences professionnelles dans l’audiovisuel, d’expériences bénévoles depuis 2008 dans la réalisation de plusieurs sites internet, et 6 mois de formation chez O'Clock, je souhaite exercer en tant que développeur web fullstack, pour partager mes compétences techniques, et mes qualités relationnelles et artistiques.
 
 ---
 
-The story begins in college, in the early 90s, when I fell in love with this magic tool: "the computer", in playing with code for the first time on the programming software for the Thomson MO5 / TO7: Logo. (who said I'm old? 😅)
+It started at school, playing with code for the first time, on a Thomson MO5. It was at the beginning of the 90s... But it was music, my second passion, which took over and made me evolve towards the study of audio recording and sound production techniques.
 
-When I was 18, my second passion: music, took over and I chose to study audio recording and sound production. Luckily assisted by computer.
-
-After twenty years in the music and media industries, with some voluntary developments of websites, I decided to return to my roots, in 2021, to finally become a web developer.
+Today, after 20 years of professional backgrounds in the music and media industry, volunteer jobs since 2008 creating of several websites, and a 6-month training at the O'Clock School, I would like to practice as a Fullstack Web Developer, to share my technical skills and my relational and artistic qualities.
 
 <br/>
 
