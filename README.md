@@ -10,7 +10,7 @@ En 2008, je me forme en autodidacte pour devenir Webmaster et Intégrateur Web b
 
 En 2021, je me lance dans une reconversion en suivant une formation intensive de 6 mois chez O'Clock et obtient à l'issue, le Titre Professionnel de niveau V de Développeur Web et Web Mobile.
 
-Aujourd’hui, je suis Développeur Fullstack junior et j'aimerais vous faire partager mes compétences techniques, et mes qualités artistiques.
+Aujourd’hui, je suis Développeur Fullstack junior et je continue de me renseigner et de me former sur les nouvelles technologies.
 
 ---
 
@@ -20,7 +20,7 @@ In 2008, I trained as an autodidact to become a Webmaster and Web Integrator on 
 
 In 2021, I begin a retraining by following an intensive 6-month training at O'Clock and at the end of the course, I obtain the Level V Professional Title of Web and Mobile Web Developer.
 
-Today, I am a Junior Fullstack Developer and I would like to share with you my technical skills and my artistic qualities.
+Today, I am a Junior Fullstack Developer and I continue to learn and train myself on new technologies.
 
 <br/>
 
