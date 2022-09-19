@@ -4,15 +4,23 @@
   
 <br/>  
 
-Tout a commencé au collège, en jouant pour la première fois avec du code sur un Thomson MO5. C'était au début des années 90... Pourtant c'est la musique, ma seconde passion, qui a pris le dessus et m’a orienté vers l'étude des techniques d'enregistrement et de mixage sonore.
+Tout a commencé au collège devant un ordinateur Thomson MO5, lorsque j'ai appris à coder un Space Invaders like. Depuis, même si ma seconde passion pour la musique m’a orienté vers l'étude des techniques d'enregistrement et de production sonore, et le métier de technicien son pendant 20 ans, ma curiosité pour le développement ne m'a jamais quitté.
 
-Aujourd’hui, après 20 ans d’expériences professionnelles dans l’audiovisuel, d’expériences bénévoles depuis 2008 dans la réalisation de plusieurs sites internet, et 6 mois de formation chez O'Clock, je souhaite exercer en tant que développeur web fullstack, pour partager mes compétences techniques, et mes qualités relationnelles et artistiques.
+En 2008, je me forme en autodidacte pour devenir Webmaster et Intégrateur Web bénévole sur plusieurs projets web.
+
+En 2021, je me lance dans une reconversion en suivant une formation intensive de 6 mois chez O'Clock et obtient à l'issue, le Titre Professionnel de niveau V de Développeur Web et Web Mobile.
+
+Aujourd’hui, je suis Développeur Fullstack junior et j'aimerais vous faire partager mes compétences techniques, et mes qualités artistiques.
 
 ---
 
-It started at school, playing with code for the first time, on a Thomson MO5. It was at the beginning of the 90s... But it was music, my second passion, which took over and made me evolve towards the study of audio recording and sound production techniques.
+It all started at school in front of a Thomson MO5 computer, when I coded a game like Space Invaders. Since then, even if my second passion for music led me to study audio recording and sound production techniques, my curiosity for web development has never ceased.
 
-Today, after 20 years of professional backgrounds in the music and media industry, volunteer jobs since 2008 creating of several websites, and a 6-month training at the O'Clock School, I would like to practice as a Fullstack Web Developer, to share my technical skills and my relational and artistic qualities.
+In 2008, I trained as an autodidact to become a Webmaster and Web Integrator on several web projects.
+
+In 2021, I begin a retraining by following an intensive 6-month training at O'Clock and at the end of the course, I obtain the Level V Professional Title of Web and Mobile Web Developer.
+
+Today, I am a Junior Fullstack Developer and I would like to share with you my technical skills and my artistic qualities.
 
 <br/>
 
