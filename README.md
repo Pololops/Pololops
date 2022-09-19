@@ -71,6 +71,9 @@ Today, I am a Junior Fullstack Developer and I continue to learn and train mysel
 
 ## Connect with me  
 <div align="center">
+  <a href="https://www.paul-rigaudeau.dev" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%23414d55.svg?&style=for-the-badge&logo=About.me&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/pololops" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
