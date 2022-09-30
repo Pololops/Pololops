@@ -14,7 +14,7 @@ Aujourd’hui, je suis Développeur Fullstack junior et je continue de me rensei
 
 ---
 
-It all started at school in front of a Thomson MO5 computer, when I coded a game like Space Invaders. Since then, even if my second passion for music led me to study audio recording and sound production techniques, my curiosity for web development has never ceased.
+It started at school in front of a Thomson MO5 computer, when I coded a game like Space Invaders. Since then, even if my second passion for music led me to study audio recording and sound production techniques, my curiosity for web development has never ceased.
 
 In 2008, I trained as an autodidact to become a Webmaster and Web Integrator on several web projects.
 
