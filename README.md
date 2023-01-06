@@ -4,23 +4,23 @@
   
 <br/>  
 
-Tout a commencé au collège devant un ordinateur Thomson MO5, lorsque j'ai appris à coder un Space Invaders like. Depuis, même si ma seconde passion pour la musique m’a orienté vers l'étude des techniques d'enregistrement et de production sonore, et le métier de technicien son pendant 20 ans, ma curiosité pour le développement ne m'a jamais quitté.
+Tout a commencé au collège devant un ordinateur Thomson MO5, lorsque j'ai appris à coder pour la première fois. Depuis, même si ma seconde passion pour la musique m’a orienté vers l'étude des techniques d'enregistrement et de production sonore et le métier de technicien son pendant 20 ans, ma curiosité pour le développement ne m'a jamais quitté.
 
-En 2008, je me forme en autodidacte pour devenir Webmaster et Intégrateur Web bénévole sur plusieurs projets web.
+Dès 2008, je me forme en autodidacte en réalisant plusieurs projets web en tant que Concepteur, Webmaster et Intégrateur Web bénévole. Puis progressivement, je me tourne vers le développement frontend.
 
-En 2021, je me lance dans une reconversion en suivant une formation intensive de 6 mois chez O'Clock et obtient à l'issue, le Titre Professionnel de niveau V de Développeur Web et Web Mobile.
+En 2021, je décide d'en faire mon activité principale en suivant une formation intensive de six mois chez O'Clock, afin d'acquérir de bonnes pratiques sur une stack moderne, et obtient le Titre Professionnel de niveau V de Développeur Web et Web Mobile.
 
-Aujourd’hui, je suis Développeur Fullstack junior et je continue de me renseigner et de me former sur les nouvelles technologies.
+Depuis, je propose mes services comme Développeur Frontend ou Fullstack au sein d'équipes de développement bienveillantes et motivées, pour partager mes connaissances, faire profiter de mes qualités artistiques et relationnelles, et monter continuellement en compétence sur des projets variés et challengeants.
 
 ---
 
 It started at school in front of a Thomson MO5 computer, when I coded a game like Space Invaders. Since then, even if my second passion for music led me to study audio recording and sound production techniques, my curiosity for web development has never ceased.
 
-In 2008, I trained as an autodidact to become a Webmaster and Web Integrator on several web projects.
+From 2008, I carried out several web projects as a self-taught and voluntary Designer, Webmaster and Web Integrator. Then little by little, I turn to frontend development.
 
-In 2021, I begin a retraining by following an intensive 6-month training at O'Clock and at the end of the course, I obtain the Level V Professional Title of Web and Mobile Web Developer.
+In 2021, I decided to make it my main activity by following an intensive six-month training at O'Clock, in order to acquire good practices on a modern stack, and to obtain the Level V Professional Title of Developer Web and Mobile Web.
 
-Today, I am a Junior Fullstack Developer and I continue to learn and train myself on new technologies.
+Since then, I offer my services as a Frontend or Fullstack Developer within caring and motivated development teams, to share my knowledge, share my artistic and interpersonal skills, and continuously improve my skills on varied and stimulating projects.
 
 <br/>
 
@@ -33,10 +33,10 @@ Today, I am a Junior Fullstack Developer and I continue to learn and train mysel
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -47,11 +47,8 @@ Today, I am a Junior Fullstack Developer and I continue to learn and train mysel
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
