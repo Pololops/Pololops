@@ -14,8 +14,6 @@
 
 👨‍💻 I’m looking to collaborate on web project in a nice team in Paris as fullstack developper JS/TS
 
-📫 You can reach me here: www.linkedin.com/in/paul-rigaudeau
-
 
 ### Frontend technologies
 
