@@ -56,4 +56,3 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-%23414d55.svg?&style=for-the-badge&logo=About.me&logoColor=white)](https://www.paul-rigaudeau.dev)
 [![Github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/pololops)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-rigaudeau)
