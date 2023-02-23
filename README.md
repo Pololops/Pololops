@@ -51,8 +51,3 @@
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=ffffff) 
 ![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff)
 
-
-### Connect with me  
-
-[![Portfolio](https://img.shields.io/badge/portfolio-%23414d55.svg?&style=for-the-badge&logo=About.me&logoColor=white)](https://www.paul-rigaudeau.dev)
-[![Github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/pololops)
